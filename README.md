@@ -26,11 +26,9 @@ This is a simple yet visually appealing website built using **HTML, CSS, and Jav
 ## 🚀 How to View the Website
 
 You can visit the live version of this site here:  
-👉 [https://your-username.github.io/my-interactive-website/](https://your-username.github.io/my-interactive-website/)
+👉 [ https://infranautpykhr.github.io/my_website/ ]
 
-*(Replace `your-username` with your actual GitHub username.)*
 
----
 
 ## 📂 File Structure
 
